@@ -1,3 +1,7 @@
+# Deprecated
+
+The functionality this plugin provides is now available in core. See: https://docs.inkdrop.app/manual/revision-history
+
 # inkdrop-history
 
 A plugin for [Inkdrop](https://www.inkdrop.info/) that gives you access to your note history.
